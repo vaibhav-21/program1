@@ -1,4 +1,4 @@
-class Byte
+class Size
 {
 	public static void main(String args[])
 	{
@@ -8,7 +8,7 @@ class Byte
 	System.out.println("Size of long:" + (Long.SIZE)+ "bytes");
 	System.out.println("Size of char:" + (Character.SIZE)+ "bytes");
 	System.out.println("Size of float:" + (Float.SIZE)+ "bytes");
-	System.out.println("Size of double:" + (Double.SIZES)+ "bytes");
+	System.out.println("Size of double:" + (Double.SIZE)+ "bytes");
     }
 
 	
